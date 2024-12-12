@@ -10,6 +10,10 @@ main {
   width: 100%;
 }
 
+input{
+  width: 90%;
+}
+
 /* (Especificidad: 0,0,1) */
 h1 {
   margin: 2%;
